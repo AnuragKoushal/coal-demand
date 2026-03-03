@@ -1,0 +1,12 @@
+pandas
+numpy
+prophet
+scikit-learn
+mlflow
+fastapi
+uvicorn
+tensorflow==2.15.0
+streamlit
+requests
+matplotlib
+python-multipart
